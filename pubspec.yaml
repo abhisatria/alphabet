@@ -47,8 +47,6 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-     - assets/twitter.png
-     - assets/logo.png
      - assets/A1.png
      - assets/B1.png
      - assets/C1.png
@@ -101,7 +99,32 @@ flutter:
      - assets/X2.png
      - assets/Y2.png
      - assets/Z2.png
-     - assets/sound.mp3
+     - assets/A.mp3
+     - assets/B.mp3
+     - assets/C.mp3
+     - assets/D.mp3
+     - assets/E.mp3
+     - assets/F.mp3
+     - assets/G.mp3
+     - assets/H.mp3
+     - assets/I.mp3
+     - assets/J.mp3
+     - assets/K.mp3
+     - assets/L.mp3
+     - assets/M.mp3
+     - assets/N.mp3
+     - assets/O.mp3
+     - assets/P.mp3
+     - assets/Q.mp3
+     - assets/R.mp3
+     - assets/S.mp3
+     - assets/T.mp3
+     - assets/U.mp3
+     - assets/V.mp3
+     - assets/W.mp3
+     - assets/X.mp3
+     - assets/Y.mp3
+     - assets/Z.mp3
 
 
 

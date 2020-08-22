@@ -71,7 +71,6 @@ class _HomePageState extends State<HomePage> {
                 fontWeight: FontWeight.w500,
               ),),
             ),
-            Center(child: Text("Testtt2")),
             SizedBox(height: 20,),
             GridView(
               physics: ScrollPhysics(),
@@ -139,6 +138,7 @@ class _TileState extends State<Tile> {
 
 void onPlayAudio(String path) async{
   AssetsAudioPlayer assetsAudioPlayer = AssetsAudioPlayer();
+  assetsAudioPlayer.setVolume(1);
   assetsAudioPlayer.open(
     Audio(path),
   );
