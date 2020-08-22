@@ -28,7 +28,6 @@ const _music = <String>[
   'assets/X.mp3',
   'assets/Y.mp3',
   'assets/Z.mp3',
-
 ];
 const _icons = <String>[
   'assets/A1.png',
